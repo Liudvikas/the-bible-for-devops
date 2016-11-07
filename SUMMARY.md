@@ -4,5 +4,5 @@
 * [Tools](tools.md)
    * [Catalog](catalog.md)
        * [etcd](etcd.md)
-   * [Service Discovery](service_discovery.md)
+   * [Service Discovery](servicediscovery.md)
 
