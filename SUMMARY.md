@@ -2,6 +2,6 @@
 
 * [Start](README.md)
 * [Tools](tools.md)
-   * Catalog
+   * [Catalog](catalog.md)
    * [Service Discovery](service_discovery.md)
 
