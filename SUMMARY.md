@@ -2,5 +2,5 @@
 
 * [Start](README.md)
 * [Tools](tools.md)
-   * Service Discovery
+   * [Service Discovery](service_discovery.md)
 
